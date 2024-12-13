@@ -1,0 +1,6 @@
+my_model_prompting.pth
+generate_cover_letter-checkpoint.ipynb
+read_cover_letter-checkpoint.ipynb
+user_prompting-checkpoint.ipynb
+sentence_autocomplete-checkpoint.ipynb
+.DS_Store
